@@ -35,3 +35,17 @@ On minimising the application, the frontend window closes and the app can be acc
 
 ![image](https://user-images.githubusercontent.com/44370143/205258741-9a52765c-6474-4764-b6a4-d26d600ddf7e.png)
 
+# Getting the application to start automatically on startup
+
+## Press windows key+R on your system
+This should open a program called "Run" at the bottom left on your screen.
+
+Type shell:startup and press enter
+
+![image](https://cdn.mos.cms.futurecdn.net/wZqnttGjg2wc4LKPacBZzY-1200-80.jpg)
+
+## Copy the shortcut from your desktop to the folder
+
+Now the application will automatically open on startup.
+
+
